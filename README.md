@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hi, I'm Ivica Pesovski 👋
 
-<!--
-**pesovski/pesovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD in AI • CTO • AI Engineer • College Professor
 
-Here are some ideas to get you started:
+I design and build scalable AI-powered platforms, intelligent agents, and production-grade web systems used by thousands of users across different industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Professor Portfolio:** https://iam.next.edu.mk/en/staff/ivicapesovski  
+🐦 **Twitter/X:** https://x.com/sudonetizen  
+
+---
+
+### 🚀 Selected Projects
+
+- 🧠 https://aiatwork.ai — Everything AI at one place. 
+- 🛰️ https://useorion.ai — Generative Engine Optimization (GEO) platform  
+- 💊 https://ozempal.com — Companion app for Ozempic users  
+- ⚡ https://qrush.app — Smart QR ordering platform  
+- 🤖 https://solun.ai — AI solutions & automation  
+
+---
+
+### 🧩 Focus Areas
+
+`AI Agents` • `RAG Systems` • `LLM Integrations` • `EdTech Platforms`
+
+---
+
+✨ Building the intelligent future, one step at a time.
