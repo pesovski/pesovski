@@ -4,9 +4,6 @@ PhD in AI • CTO • AI Engineer • College Professor
 
 I design and build scalable AI-powered platforms, intelligent agents, and production-grade web systems used by thousands of users across different industry.
 
-🎓 **Professor Portfolio:** https://iam.next.edu.mk/en/staff/ivicapesovski  
-🐦 **Twitter/X:** https://x.com/sudonetizen  
-
 ---
 
 ### 🚀 Selected Projects
